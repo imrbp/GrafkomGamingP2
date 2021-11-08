@@ -2,14 +2,23 @@
 Project Bikin Game
 
 # Anggota tim dan Peran
-| Nama| NIM|Peran|
+| Nama | NIM | Peran |
 |-----|----|------|
-| Nabil|G641900xx|x|
-| Yosar |G641900xx|x|
-| Made |G641900xx|x|
+| Nabil Abidi | G64190064 | Game Designer |
+| I Made Raditya Bayu Pangestu | G64190075 | x |
+| Yosar Awandi P | G64190076 | x |
 
 # Deskripsi Singkat Produk
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.
+## Story:
+Seorang mahasiswa terkunci di asrama dan perlu mencari jalan keluar agar bisa selamat. Asrama tersebut tiba-tiba berubah menjadi berhantu dan menyeramkan. Untuk keluar, ia perlu menyelesaikan misi yaitu mencari kunci dan menyelamatkan berbagai dokumen penting untuk kepentingan kuliahnya.
+## Goals:
+- Mencari kunci untuk keluar dari asrama
+- Mengumpulkan berbagai dokumen kuliah
+## Rules:
+- Akan ada timer. Jika timer habis, player akan meninggal kelaparan.
+- Akan ada berbagai hantu yang dapat menyerang player. Jika player terkena serangan, HP akan berkurang.
+- Untuk keluar dari asrama, player membutuhkan kunci.
+- Untuk mendapat poin bonus, player perlu mencari dan mengumpulkan berbagai dokumen.
 
 # Proses Pengembangan Produk
 Jelaskan proses yang kalian lakukan dalam mengembangkan produk. Tambahkan ilustrasi / screenshot prosesnya. 
