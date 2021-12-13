@@ -19,6 +19,10 @@ Seorang mahasiswa pulang menuju asramanya setelah rapat organisasi. Sesampainya 
 - Player perlu mengambil kunci untuk dapat selamat dan keluar dari asrama.
 - Player akan mendapat jalan cerita yang berbeda jika ia mengumpulkan semua dokumen atau tidak.
 
+## Asset
+- [Character](https://assetstore.unity.com/packages/2d/characters/cute-2d-college-student-198684)
+- [Music](https://assetstore.unity.com/packages/audio/music/orchestral/free-horror-soundtracks-vol-1-197138)
+
 ## Technologi stack yang digunakan
 - Visual Studio
 - Unity
