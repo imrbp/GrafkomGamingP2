@@ -1,5 +1,6 @@
 # SERAM
 sebuah game horor tentang asrama IPB
+![SS main menu](https://github.com/imrbp/GrafkomGamingP2/blob/master/Screenshot%20(49).png)
 
 ## Anggota Tim dan Peran
 | Nama | NIM | Peran |
