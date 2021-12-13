@@ -28,5 +28,8 @@ Seorang mahasiswa pulang menuju asramanya setelah rapat organisasi. Sesampainya 
 - Unity
 - Figma
 
+## Laporan Proyek
+[Google Docs](https://docs.google.com/document/d/1noIwtNpZPJhNO39Da3tNzoSLSN7PTuJEv1_1DHfIOdQ/edit?usp=sharing)
+
 ## Video Demo Proyek
 [Klik di sini](https://drive.google.com/file/d/1DM1zke4-Pv-MMW9WZ0n3-4zJlm7oGJq0/view?usp=sharing)
